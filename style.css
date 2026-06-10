@@ -1,0 +1,15 @@
+body{
+    font-family: "Comic Relief";
+    background-color: #2A2A2A;
+    color: #FFFFFF
+}
+.button{
+    color: #FFFFFF;
+    background-color: #2A2A2A;
+    font-family: "Comic Relief";
+}
+#counter{
+    width: 200px;
+    height: 100px;
+    position:static;
+}
